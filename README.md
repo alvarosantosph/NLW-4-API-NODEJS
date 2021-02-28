@@ -1,4 +1,4 @@
-# NLW #4 - API-NODEJS
+# NLW #4 - API - NODEJS - NPS
 
 ```sh
 API desenvolvida durante o evento Next Level Week 4 da Rocketseat - Trilha NodeJS
