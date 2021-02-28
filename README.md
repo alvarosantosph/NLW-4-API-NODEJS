@@ -6,7 +6,7 @@ API desenvolvida durante o evento Next Level Week 4 da Rocketseat - Trilha NodeJ
 
 <div align="left">
     <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
-    <img src="https://img.shields.io/badge/-Node.js-orange?style=for-the-badge" alt="Node.js">
+    <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge" alt="Node.js">
     <img src="https://img.shields.io/badge/-Express-white?style=for-the-badge" alt="Express">
 </div>
 
