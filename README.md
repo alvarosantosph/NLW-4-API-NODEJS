@@ -1,7 +1,7 @@
 # NLW #4 - API-NODEJS
 
 ```sh
-API em NODEJS na edição 4 da NWL - ROCKETSEAT
+API desenvolvida durante o evento Next Level Week 4 da Rocketseat - Trilha NodeJS
 ```
 
 https://rocketseat.com.br/
